@@ -9,6 +9,9 @@
 	<section class="sidebar">
 		<ul class="sidebar-menu">
 			<li>
+				<a href="{{ route('home') }}" target="_blank">View Blog</a>
+			</li>
+			<li>
 				<a href="{{ route('dashboard') }}">Dashboard</a>
 			</li>
 			<li>
