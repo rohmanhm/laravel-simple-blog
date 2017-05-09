@@ -1,5 +1,7 @@
 # Simple Blog CRUD With Laravel 5.3
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rohmanhm/laravel-simple-blog.svg)](https://greenkeeper.io/)
+
 # How to setup
 
 * Setting `.env ` with your database configuration
